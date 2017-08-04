@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="testing">
+<test name="testingmaven">
+<classes>
+
+<class name="WebTEST.maven.AppTest"/>
+
+</classes>
+
+
+</test>
+
+
+
+</suite>

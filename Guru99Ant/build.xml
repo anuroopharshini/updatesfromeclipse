@@ -41,6 +41,7 @@
   </target>
 <target name="runGuru99TestNGAnt" depends="compile">
 		<!-- testng tag will be used to execute testng code using corresponding testng.xml file -->
+	<echo message="testing"/>
 			<testng classpath="${test.classpath};${build.dir}">
                <xmlfileset dir="${basedir}" includes="testng.xml"/>
 	</testng>

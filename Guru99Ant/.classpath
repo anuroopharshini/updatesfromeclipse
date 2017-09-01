@@ -2,15 +2,6 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
 	<classpathentry kind="lib" path="C:/Users/Anuroop/workspace/selenium-server-standalone-2.53.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Anuroop/testngjar_files/ant-1.7.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Anuroop/testngjar_files/ant-launcher-1.7.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Anuroop/testngjar_files/bsh-2.0b4.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Anuroop/testngjar_files/hamcrest-core-1.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Anuroop/testngjar_files/jcommander-1.48.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Anuroop/testngjar_files/junit-4.10.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Anuroop/testngjar_files/snakeyaml-1.15.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Anuroop/testngjar_files/testng-6.9.9.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

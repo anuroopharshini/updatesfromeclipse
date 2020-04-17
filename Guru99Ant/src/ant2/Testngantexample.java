@@ -7,7 +7,7 @@ import org.testng.annotations.*;
 public class Testngantexample {				
 @Test
 	public void Guru99AntTestNGMethod(){					     
-		System.out.println("HELLO GURU99 ANT PROGRAM");		
+	//	System.out.println("HELLO GURU99 ANT PROGRAM");		
 		System.out.println("HELLO honey");	
 		System.out.println("TODAY's DATE IS->"+ currentDate() );					
 	}		
